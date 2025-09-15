@@ -1,7 +1,7 @@
 # Virtual Environment
-env/
+spacy_venv/
 venv/
-.venv/
+.spacy_venv/
 
 # Python cache
 __pycache__/
