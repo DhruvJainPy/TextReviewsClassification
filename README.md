@@ -1,4 +1,4 @@
-# Classification Project
+# Baby Products Review Classification
 
 **Deployed App:** [https://textreviewsclassification.streamlit.app/](https://textreviewsclassification.streamlit.app/)
 
